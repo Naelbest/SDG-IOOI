@@ -6,4 +6,6 @@ The approach of most online learning websites is to simply wait for the Internet
 
 This is not acceptable.
 
-We’re not willing to wait -- we believe it’s essential to act now to make the offline learning revolution a reality, and give these students the opportunities they need to break this cycle of poverty. With your help, we can make education truly universal!
+We’re not willing to wait -- we believe it’s essential to act now to make the offline learning revolution a reality, and give these students the opportunities they need to break this cycle of poverty. 
+
+This is where IOOI would be super applicable. Be part of the Change makers
