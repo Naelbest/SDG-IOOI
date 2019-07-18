@@ -1,29 +1,9 @@
-Fractal by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+IOOI: A free educational application for any offline device. 
 
+There is an abundance of high quality educational content online, but 60% of the world is not on the Internet. It will take decades for the Internet to reach them, leaving generations of learners behind. 
 
-A simple landing page template for showcasing mobile apps (although it'll definitely work
-for other stuff if you get rid of the phone :) Lightweight, fully responsive, and built on
-HTML5, Sass, and flexbox.
+The approach of most online learning websites is to simply wait for the Internet to reach people, focusing on serving those who already have connectivity. In the process, we’re leaving out the children who could most benefit from the potential of a high quality education - those with  poor access to schools, large class sizes, and poorly trained teachers. We are condemning generations  of children to remain stuck in a cycle of poverty, with little education, few opportunities, and no hope.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This is not acceptable.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+We’re not willing to wait -- we believe it’s essential to act now to make the offline learning revolution a reality, and give these students the opportunities they need to break this cycle of poverty. With your help, we can make education truly universal!
